@@ -38,13 +38,13 @@ The results of the tests are saved in the `Results/` directory. This includes pe
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
-   cd yourrepository
+   git clone [https://github.com/yourusername/yourrepository.git](https://github.com/PEASEC/GPT-CTI-Evaluation.git)
+   cd GPT-CTI-Evaluation
    ```
 
 2. Install the required dependencies of the gpt.py file.
 
-3. Get the [MSEXchange Server CTI Dataset](https://github.com/PEASEC/msexchange-server-cti-dataset) and store it in data/
+3. Get the [MSExchange Server CTI Dataset](https://github.com/PEASEC/msexchange-server-cti-dataset) and store it in data/
 
 4. Configure the parameters in the `gpt.py` file as needed.
 
