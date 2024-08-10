@@ -1,6 +1,6 @@
 # Dissertation Script: Testing GPT-3.5 and GPT-4 on Few-Shot CTI Dataset
 
-This repository contains the script used in my dissertation to evaluate the performance of GPT-3.5 and GPT-4 models on the few-shot CTI dataset from the [MSEXchange Server CTI Dataset](https://github.com/PEASEC/msexchange-server-cti-dataset). The script is designed to test various configurations and includes parameters for guidelines, few-shot settings, and chain-of-thought (CoT) processing.
+This repository contains the script used in my dissertation to evaluate the performance of GPT-3.5 and GPT-4 models on the few-shot CTI dataset from the [MSExchange Server CTI Dataset](https://github.com/PEASEC/msexchange-server-cti-dataset). The script is designed to test various configurations and includes parameters for guidelines, few-shot settings, and chain-of-thought (CoT) processing.
 
 ## Parameters
 
@@ -38,7 +38,7 @@ The results of the tests are saved in the `Results/` directory. This includes pe
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/yourrepository.git](https://github.com/PEASEC/GPT-CTI-Evaluation.git)
+   git clone https://github.com/PEASEC/GPT-CTI-Evaluation.git
    cd GPT-CTI-Evaluation
    ```
 
