@@ -4,7 +4,7 @@ This repository contains the script used in my dissertation to evaluate the perf
 
 ## Contact and Support
 
-If you have any questions, need access to further research data, or if you encounter any bugs, please feel free to contact me!
+If you have any questions, need access to the dataset or further research data, or if you encounter any bugs, please feel free to contact me!
 
 ## Parameters
 
