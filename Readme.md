@@ -2,6 +2,10 @@
 
 This repository contains the script used in my dissertation to evaluate the performance of GPT-3.5 and GPT-4 models on the few-shot CTI dataset from the [MSExchange Server CTI Dataset](https://github.com/PEASEC/msexchange-server-cti-dataset). The script is designed to test various configurations and includes parameters for guidelines, few-shot settings, and chain-of-thought (CoT) processing.
 
+## Contact and Support
+
+If you have any questions, need access to further research data, or if you encounter any bugs, please feel free to contact me!
+
 ## Parameters
 
 The script includes several parameters to customize the testing setup:
